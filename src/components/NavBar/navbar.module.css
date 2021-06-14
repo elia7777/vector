@@ -1,0 +1,10 @@
+.navLink a {
+  color: #616263;
+}
+.navLink a:hover,
+.navLink a:focus {
+  color: #141414;
+}
+.nav .active {
+  text-decoration: underline;
+}
