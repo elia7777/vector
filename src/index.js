@@ -13,7 +13,7 @@ const App = () => {
   return (
     <CurrentUserProvider>
       <CurrentUserChecker>
-        <Router>
+        <Router basename="/vector">
           <Spinner>
             <NavBar />
             <Routes />
