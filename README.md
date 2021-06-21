@@ -20,4 +20,4 @@
 <br/>
 <br/>
 Процесс регистрации и заполнения профиля
-![Video-Gif720p](https://s6.gifyu.com/images/ezgif.com-gif-maker37fb985c3710391b.gif)
+<img width="850" alt="" src="https://s6.gifyu.com/images/ezgif.com-gif-maker37fb985c3710391b.gif">
