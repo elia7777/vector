@@ -28,8 +28,7 @@
 <p>Создание и редактирование поста</p>
 <img width="850" alt="create post" src="https://user-images.githubusercontent.com/58984121/122744696-ebe97000-d290-11eb-9722-4ffee6cc189d.gif">
 <br/>
-<br/>
-<br/>
+
 
 ## Запуск проекта ⏯
 
