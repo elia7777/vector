@@ -9,6 +9,7 @@
 Приложение для ведения собственного блога. 
 <br/>
 Функционал: 
+<br/>
 <ul>
   <li>создание и редактирования собственного профиля</li>
   <li>поиск постов по тегу</li>
@@ -20,14 +21,12 @@
 <br/>
 <br/>
 <p>Процесс регистрации и заполнения профиля</p>
-<img width="850" alt="a" src="https://s6.gifyu.com/images/ezgif.com-gif-maker37fb985c3710391b.gif">
+<img width="850" alt="register" src="https://s6.gifyu.com/images/ezgif.com-gif-maker37fb985c3710391b.gif">
 <br/>
 <br/>
 <br/>
 <p>Создание и редактирование поста</p>
-<br/>
-<img width="850" alt="a" src="https://user-images.githubusercontent.com/58984121/122744696-ebe97000-d290-11eb-9722-4ffee6cc189d.gif">
-![ezgif com-gif-maker (1)]()
+<img width="850" alt="create post" src="https://user-images.githubusercontent.com/58984121/122744696-ebe97000-d290-11eb-9722-4ffee6cc189d.gif">
 <br/>
 <br/>
 <br/>
