@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <p>Создание и редактирование поста</p>
-<img width="850" alt="x" src="https://s6.gifyu.com/images/ezgif.com-gif-maker-18cd974f515350f84.gif">
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58984121/122744696-ebe97000-d290-11eb-9722-4ffee6cc189d.gif)
 <br/>
 <br/>
 <br/>
