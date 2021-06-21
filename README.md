@@ -20,13 +20,11 @@
 <br/>
 <br/>
 <p>Процесс регистрации и заполнения профиля</p>
-<br/>
 <img width="850" alt="a" src="https://s6.gifyu.com/images/ezgif.com-gif-maker37fb985c3710391b.gif">
 <br/>
 <br/>
 <br/>
-Создание и редактирование поста
-<br/>
+<p>Создание и редактирование поста</p>
 <img width="850" alt="x" src="https://s6.gifyu.com/images/ezgif.com-gif-maker-18cd974f515350f84.gif">
 <br/>
 <br/>
